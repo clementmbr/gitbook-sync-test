@@ -1,6 +1,8 @@
 # Test 1st page
 
-One deleted image
+One replaced image
+
+![](.gitbook/assets/image%20%282%29.png)
 
 Another image
 
